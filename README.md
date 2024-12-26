@@ -1,4 +1,4 @@
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## QUEEN_ANITA-V4 Deployment Methods
 
 ### 1. FORK THIS REPO
 
